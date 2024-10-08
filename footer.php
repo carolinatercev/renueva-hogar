@@ -26,9 +26,9 @@
           <ul>
             <li><a href="index.html">Inicio</a></li>
             <li><a href="quienes-somos.php">¿Quiénes somos?</a></li>
-            <li><a href="servicios.php">Servicios</a></li>
-                    <li><a href="blog.php">Blog</a></li>
-            <li><a href="contact.php">Contacto</a></li>
+            <li><a href="service-details.html">Servicios</a></li>
+            <li><a href="blog.php">Blog</a></li>
+            <li><a href="contacto.php">Contacto</a></li>
             <li><a href="politica-de-privacidad.php">Politica de privacidad</a></li>
           </ul>
         </div>

@@ -177,14 +177,11 @@ include "header.php";
             <br>
 
             <p>
-            En Renueva Hogar, ofrecemos una amplia gama de muebles de cocina y baño diseñados para combinar funcionalidad y estilo. Nuestros muebles de cocina están pensados para optimizar el espacio y facilitar tus tareas diarias, con soluciones de almacenamiento inteligentes y acabados modernos que se adaptan a cualquier estilo de decoración. Desde armarios y estanterías hasta islas de cocina y mesas, cada pieza está fabricada con materiales de alta calidad para garantizar durabilidad y resistencia.
+            En Renueva Hogar, ofrecemos una amplia gama de muebles de cocina y baño diseñados para combinar funcionalidad y estilo. Nuestros muebles de cocina están pensados para optimizar el espacio y facilitar tus tareas diarias, con soluciones de almacenamiento inteligentes y acabados modernos que se adaptan a cualquier estilo de decoración. Desde armarios y estanterías hasta islas de cocina y mesas, cada pieza está fabricada con materiales de alta calidad para garantizar durabilidad y resistencia.</p>
 
-</p>
-
-            <p>Para el baño, contamos con una selección de muebles que transformarán este espacio en un verdadero oasis de relajación. Nuestros diseños incluyen muebles de lavabo, armarios de pared y soluciones de almacenamiento que no solo son prácticos, sino también estéticamente agradables. Utilizamos materiales resistentes a la humedad y acabados elegantes que aportan un toque de sofisticación a tu baño, asegurando que cada elemento se integre perfectamente en tu hogar.
+            <p>Para el baño, contamos con una selección de muebles que transformarán este espacio en un verdadero oasis de relajación. Nuestros diseños incluyen muebles de lavabo, armarios de pared y soluciones de almacenamiento que no solo son prácticos, sino también estéticamente agradables. Utilizamos materiales resistentes a la humedad y acabados elegantes que aportan un toque de sofisticación a tu baño, asegurando que cada elemento se integre perfectamente en tu hogar. </p>
               <br>
-
-En Renueva Hogar, nos enorgullece ofrecer muebles personalizados que se adaptan a tus necesidades y preferencias. Trabajamos contigo para crear espacios únicos y funcionales, ya sea que busques renovar tu cocina con un estilo contemporáneo o darle a tu baño un aire más clásico. Nuestro compromiso es brindarte soluciones de diseño que mejoren tu calidad de vida y hagan de tu hogar un lugar más cómodo y acogedor.
+              <p>En Renueva Hogar, nos enorgullece ofrecer muebles personalizados que se adaptan a tus necesidades y preferencias. Trabajamos contigo para crear espacios únicos y funcionales, ya sea que busques renovar tu cocina con un estilo contemporáneo o darle a tu baño un aire más clásico. Nuestro compromiso es brindarte soluciones de diseño que mejoren tu calidad de vida y hagan de tu hogar un lugar más cómodo y acogedor.
             </p>
 
           </div>
@@ -229,14 +226,12 @@ En Renueva Hogar, nos enorgullece ofrecer muebles personalizados que se adaptan 
             <br>
 
             <p>
-            En Renueva Hogar, nos especializamos en la transformación de locales comerciales, creando espacios que no solo atraen a los clientes, sino que también optimizan la funcionalidad y eficiencia del negocio. Nuestro equipo de expertos trabaja contigo desde la fase de diseño hasta la ejecución final, asegurando que cada detalle se alinee con tu visión y necesidades comerciales. Utilizamos materiales de alta calidad y técnicas innovadoras para garantizar que tu local no solo sea estéticamente atractivo, sino también duradero y práctico.
+            En Renueva Hogar, nos especializamos en la transformación de locales comerciales, creando espacios que no solo atraen a los clientes, sino que también optimizan la funcionalidad y eficiencia del negocio. Nuestro equipo de expertos trabaja contigo desde la fase de diseño hasta la ejecución final, asegurando que cada detalle se alinee con tu visión y necesidades comerciales. Utilizamos materiales de alta calidad y técnicas innovadoras para garantizar que tu local no solo sea estéticamente atractivo, sino también duradero y práctico.</p>
 
-</p>
-
-            <p>Entendemos que cada negocio es único, por lo que ofrecemos soluciones personalizadas que se adaptan a diferentes tipos de comercios, desde tiendas minoristas hasta restaurantes y oficinas. Nos encargamos de todos los aspectos de la reforma, incluyendo la distribución del espacio, la iluminación, la climatización y la instalación de mobiliario específico. Nuestro objetivo es crear un ambiente que refleje la identidad de tu marca y mejore la experiencia de tus clientes, ayudándote a destacar en un mercado competitivo.
+            <p>Entendemos que cada negocio es único, por lo que ofrecemos soluciones personalizadas que se adaptan a diferentes tipos de comercios, desde tiendas minoristas hasta restaurantes y oficinas. Nos encargamos de todos los aspectos de la reforma, incluyendo la distribución del espacio, la iluminación, la climatización y la instalación de mobiliario específico. Nuestro objetivo es crear un ambiente que refleje la identidad de tu marca y mejore la experiencia de tus clientes, ayudándote a destacar en un mercado competitivo.</p>
               <br>
 
-              En Renueva Hogar, nos comprometemos a cumplir con los plazos establecidos y a minimizar las interrupciones en tu negocio durante el proceso de reforma. Sabemos lo importante que es para ti mantener tus operaciones en marcha, por lo que planificamos y coordinamos cada etapa del proyecto con precisión y eficiencia. Confía en nosotros para transformar tu local comercial en un espacio que inspire y motive, impulsando el éxito y crecimiento de tu negocio.
+              <p>En Renueva Hogar, nos comprometemos a cumplir con los plazos establecidos y a minimizar las interrupciones en tu negocio durante el proceso de reforma. Sabemos lo importante que es para ti mantener tus operaciones en marcha, por lo que planificamos y coordinamos cada etapa del proyecto con precisión y eficiencia. Confía en nosotros para transformar tu local comercial en un espacio que inspire y motive, impulsando el éxito y crecimiento de tu negocio.
             </p>
 
           </div>
@@ -281,13 +276,11 @@ En Renueva Hogar, nos enorgullece ofrecer muebles personalizados que se adaptan 
             <br>
 
             <p>
-            En Renueva Hogar, nos especializamos en reformas integrales y estructurales que transforman completamente tu vivienda. Nuestro equipo de profesionales altamente cualificados se encarga de cada aspecto del proyecto, desde la planificación y el diseño hasta la ejecución y finalización. Nos aseguramos de que cada detalle esté perfectamente alineado con tus necesidades y expectativas, utilizando materiales de alta calidad y técnicas avanzadas para garantizar resultados duraderos y estéticamente impresionantes.
+            En Renueva Hogar, nos especializamos en reformas integrales y estructurales que transforman completamente tu vivienda. Nuestro equipo de profesionales altamente cualificados se encarga de cada aspecto del proyecto, desde la planificación y el diseño hasta la ejecución y finalización. Nos aseguramos de que cada detalle esté perfectamente alineado con tus necesidades y expectativas, utilizando materiales de alta calidad y técnicas avanzadas para garantizar resultados duraderos y estéticamente impresionantes.</p>
 
-</p>
-
-            <p>Las reformas integrales son ideales para aquellos que desean renovar por completo su hogar, mejorando tanto la funcionalidad como la estética. Ya sea que necesites redistribuir los espacios, actualizar las instalaciones eléctricas y de fontanería, o reforzar la estructura de tu vivienda, en Renueva Hogar tenemos la experiencia y el conocimiento necesarios para llevar a cabo cualquier tipo de reforma. Nuestro enfoque personalizado nos permite adaptar cada proyecto a las necesidades específicas de nuestros clientes, asegurando su satisfacción total.
+            <p>Las reformas integrales son ideales para aquellos que desean renovar por completo su hogar, mejorando tanto la funcionalidad como la estética. Ya sea que necesites redistribuir los espacios, actualizar las instalaciones eléctricas y de fontanería, o reforzar la estructura de tu vivienda, en Renueva Hogar tenemos la experiencia y el conocimiento necesarios para llevar a cabo cualquier tipo de reforma. Nuestro enfoque personalizado nos permite adaptar cada proyecto a las necesidades específicas de nuestros clientes, asegurando su satisfacción total.</p>
               <br><br>
-
+              <p>
               Además, entendemos la importancia de la sostenibilidad y la eficiencia energética en las reformas modernas. Por ello, incorporamos soluciones ecológicas y tecnologías innovadoras en nuestros proyectos, ayudándote a reducir el impacto ambiental y a mejorar la eficiencia energética de tu hogar. En Renueva Hogar, estamos comprometidos a ofrecerte un servicio integral que no solo transforme tu vivienda, sino que también mejore tu calidad de vida y contribuya a un futuro más sostenible.
             </p>
 
